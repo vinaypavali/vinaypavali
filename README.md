@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [React](https://github.com/facebook/react)
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Redux, Tailwind, Node, Python, Flask, REST-API's, CyberSecurity**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Redux, Tailwind, Node, Python, Flask, REST-API's, CyberSecurity...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
