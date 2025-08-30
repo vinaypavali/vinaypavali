@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinay Pavali</h1>
-<h3 align="center">A passionate REACT developer </h3>
+<h3 align="center">A passionate Learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaypavali&label=Profile%20views&color=0e75b6&style=flat" alt="vinaypavali" /> </p>
 
-- 🔭 I’m currently working on Ecommerce **Shopit**
+- 🔭 I’m currently working as a Bug Bounty Hunter **Shopit**
 
 - 👯 I’m looking to collaborate on [React](https://github.com/facebook/react)
 
