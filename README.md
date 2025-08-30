@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Bug Bounty Hunter.
 
-- 👯 I’m looking to collaborate on [React](https://github.com/facebook/react)
+- 👯 I’m looking to collaborate on **Three.js**
 
 - 🤝 I’m looking for help with [React](https://github.com/facebook/react)
 
